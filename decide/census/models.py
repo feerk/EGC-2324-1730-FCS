@@ -9,3 +9,4 @@ class Census(models.Model):
         unique_together = (('voting_id', 'voter_id'),)
 #Cambio1
 #Cambio2
+#Cambio3
